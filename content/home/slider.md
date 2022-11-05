@@ -16,8 +16,7 @@ design:
 content:
   slides:
     - title: ACM REP 2023
-      content: 'ACM Conference on Reproducibility and Independent Verification, 
-      Santa Cruz, California, USA, June 27-29, 2023'
+      content: 'ACM Conference on Reproducibility and Independent Verification, Santa Cruz, California, USA, June 27-29, 2023'
       align: right
       background:
         position: center
