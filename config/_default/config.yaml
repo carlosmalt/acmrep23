@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: acmrep23 # Website name
-baseURL: 'carlosmalt.github.io/acmrep23' # Website URL
+title: ACM REP 2023 # Website name
+baseURL: 'https://carlosmalt.github.io/acmrep23/' # Website URL
 
 ############################
 ## LANGUAGE

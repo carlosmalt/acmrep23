@@ -16,6 +16,7 @@ design:
   # Add custom styles
   css_style:
   css_class:
+active: false
 ---
 
 <br>
