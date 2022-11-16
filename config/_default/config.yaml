@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ACM REP 2023 # Website name
-baseURL: 'https://carlosmalt.github.io/acmrep23/' # Website URL
+baseURL: 'https://acmrep.github.io/2023/' # Website URL
 
 ############################
 ## LANGUAGE

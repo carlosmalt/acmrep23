@@ -3,22 +3,29 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
+widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+title: 2023 ACM Conference on Reproducibility and Independent Verification
+subtitle: |
+  June 27-29, 2023  
+  UC Santa Cruz | Santa Cruz, California | \#acmrep
+active: true
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
-active: false
+  background:
+    image: background.png
+    image_darken: 0.4
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
+advanced:
+  css_class: 
 ---
 
-<br>
+{{< cta cta_text="Call for Tutorials" cta_link="cft" cta_new_tab="false" >}}{{< cta cta_text="Call for Papers" cta_link="cfp" cta_new_tab="false" >}}
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
